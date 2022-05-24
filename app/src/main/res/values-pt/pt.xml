@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculador IMC</string>
+    <string name="label_Chose">Genero</string>
+    <string name="label_male">Masculino</string>
+    <string name="label_salemale">Feminino</string>
+    <string name="label_hight">Altura</string>
+    <string name="label_widith">Peso</string>
+    <string name="Calculator">Calcular</string>
+    <string name="resultado">Seu IMC esta:</string>
+    <string name="msg">Seu IMC é:</string>
+</resources>
